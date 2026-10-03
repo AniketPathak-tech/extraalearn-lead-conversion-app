@@ -1,5 +1,7 @@
 # Import necessary libraries
+import os
 import requests
+import pandas as pd
 import streamlit as st
 
 # URL of the deployed Flask backend (paste your backend's public URL here,
